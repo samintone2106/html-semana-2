@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Bicicleta urbana clásica verde con canasta</title>
+  <rect width="600" height="400" fill="#FAFAF7"/>
+  <circle cx="300" cy="200" r="170" fill="#E4E8E3"/>
+  <rect y="340" width="600" height="60" fill="#E4E8E3"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="150" cy="260" r="85" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="150" cy="260" r="73" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="150" cy="260" r="6" fill="#2B3035" stroke="none"/>
+    <circle cx="450" cy="260" r="85" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="450" cy="260" r="73" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="450" cy="260" r="6" fill="#2B3035" stroke="none"/>
+    <path d="M150 260 L270 260 L230 140 L410 140 L450 260 M270 260 L410 140" stroke="#1B6B3A" stroke-width="14"/>
+    <path d="M230 140 L218 108" stroke="#1B6B3A" stroke-width="12"/>
+    <path d="M195 102 H245" stroke="#2B3035" stroke-width="16"/>
+    <path d="M410 140 L395 85 L440 75" stroke="#2B3035" stroke-width="10"/>
+    <circle cx="270" cy="260" r="18" stroke="#2B3035" stroke-width="8"/>
+    <rect x="420" y="100" width="80" height="50" rx="6" stroke="#8A5A2B" stroke-width="8"/>
+  </g>
+</svg>

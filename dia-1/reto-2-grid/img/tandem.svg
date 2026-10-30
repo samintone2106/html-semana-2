@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Bicicleta tándem para dos personas con dos sillines</title>
+  <rect width="600" height="400" fill="#FAFAF7"/>
+  <circle cx="300" cy="200" r="170" fill="#E4E8E3"/>
+  <rect y="340" width="600" height="60" fill="#E4E8E3"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="100" cy="260" r="75" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="100" cy="260" r="63" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="100" cy="260" r="6" fill="#2B3035" stroke="none"/>
+    <circle cx="500" cy="260" r="75" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="500" cy="260" r="63" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="500" cy="260" r="6" fill="#2B3035" stroke="none"/>
+    <path d="M100 260 L210 260 L170 150 L430 150 L500 260 M210 260 L300 150 M330 260 L300 150 M330 260 L430 150 M210 260 L330 260" stroke="#1B6B3A" stroke-width="14"/>
+    <path d="M180 140 L168 108" stroke="#1B6B3A" stroke-width="12"/>
+    <path d="M145 102 H195" stroke="#2B3035" stroke-width="16"/>
+    <path d="M460 140 L445 85 L490 75" stroke="#2B3035" stroke-width="10"/>
+    <circle cx="260" cy="260" r="18" stroke="#2B3035" stroke-width="8"/>
+    <path d="M300 150 L292 115" stroke="#1B6B3A" stroke-width="12"/>
+    <path d="M270 108 H315" stroke="#2B3035" stroke-width="16"/>
+    <circle cx="330" cy="260" r="16" stroke="#2B3035" stroke-width="7"/>
+  </g>
+</svg>

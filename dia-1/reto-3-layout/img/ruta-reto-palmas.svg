@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Ruta Reto Las Palmas: carretera en zigzag subiendo la montaña</title>
+  <rect width="600" height="400" fill="#DDEBE3"/>
+  <circle cx="480" cy="80" r="40" fill="#F2B705"/>
+  <path d="M0 400 L0 260 L180 120 L300 60 L420 140 L600 220 V400Z" fill="#1B6B3A"/>
+  <path d="M0 400 L0 320 L200 230 L380 270 L600 300 V400Z" fill="#1B6B3A" opacity=".6"/>
+  <path d="M120 390 L420 330 L180 270 L380 200 L240 150 L310 80" fill="none" stroke="#E4E8E3" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M120 390 L420 330 L180 270 L380 200 L240 150 L310 80" fill="none" stroke="#2B3035" stroke-width="3" stroke-dasharray="10 10"/>
+  <path d="M310 80 V40" stroke="#2B3035" stroke-width="4"/>
+  <path d="M310 40 L345 50 L310 60Z" fill="#C8553D"/>
+</svg>

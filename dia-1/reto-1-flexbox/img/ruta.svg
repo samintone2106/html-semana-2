@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Mapa de una ruta en bicicleta por parques y miradores</title>
+  <rect width="600" height="400" fill="#f4f1e8"/>
+  <g stroke="#ddd6c4" stroke-width="18">
+    <path d="M0 100 H600 M0 300 H600 M150 0 V400 M420 0 V400"/>
+  </g>
+  <ellipse cx="290" cy="200" rx="90" ry="60" fill="#a8d5a2"/>
+  <ellipse cx="510" cy="90" rx="60" ry="40" fill="#a8d5a2"/>
+  <path d="M60 340 C140 300 150 220 230 210 S360 260 400 180 S470 80 520 90" fill="none" stroke="#ff6f3c" stroke-width="8" stroke-dasharray="18 12" stroke-linecap="round"/>
+  <circle cx="60" cy="340" r="16" fill="#1f5fa8"/>
+  <path d="M520 90 V40 L560 55 L520 70" fill="#1f5fa8"/>
+  <circle cx="520" cy="90" r="9" fill="#1f5fa8"/>
+</svg>
