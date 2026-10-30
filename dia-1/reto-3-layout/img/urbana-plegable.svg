@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Bicicleta urbana plegable de ruedas pequeñas</title>
+  <rect width="600" height="400" fill="#FAFAF7"/>
+  <circle cx="300" cy="200" r="170" fill="#E4E8E3"/>
+  <rect y="340" width="600" height="60" fill="#E4E8E3"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="180" cy="275" r="60" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="180" cy="275" r="48" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="180" cy="275" r="6" fill="#2B3035" stroke="none"/>
+    <circle cx="420" cy="275" r="60" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="420" cy="275" r="48" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="420" cy="275" r="6" fill="#2B3035" stroke="none"/>
+    <path d="M180 275 L280 275 L300 190 L380 190 L420 275 M280 275 L380 190" stroke="#F2B705" stroke-width="14"/>
+    <path d="M260 155 L248 123" stroke="#F2B705" stroke-width="12"/>
+    <path d="M225 117 H275" stroke="#2B3035" stroke-width="16"/>
+    <path d="M380 155 L365 100 L410 90" stroke="#2B3035" stroke-width="10"/>
+    <circle cx="276" cy="275" r="18" stroke="#2B3035" stroke-width="8"/>
+    <circle cx="340" cy="190" r="10" fill="#2B3035" stroke="none"/>
+  </g>
+</svg>

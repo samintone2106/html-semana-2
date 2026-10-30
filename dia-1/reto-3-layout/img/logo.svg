@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" role="img" aria-labelledby="t">
+  <title id="t">Logo de Rueda Libre</title>
+  <g fill="none" stroke="#1f5fa8" stroke-width="6" stroke-linecap="round">
+    <circle cx="28" cy="62" r="22"/>
+    <circle cx="96" cy="62" r="22"/>
+    <path d="M28 62 L52 28 L84 28 L96 62 M52 28 L62 62 L84 28 M62 62 L28 62"/>
+  </g>
+  <text x="130" y="70" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#ff6f3c">Rueda Libre</text>
+</svg>
