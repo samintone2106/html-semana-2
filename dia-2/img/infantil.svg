@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="t">
+  <title id="t">Bicicleta infantil pequeña con rueditas de apoyo</title>
+  <rect width="600" height="400" fill="#FAFAF7"/>
+  <circle cx="300" cy="200" r="170" fill="#E4E8E3"/>
+  <rect y="340" width="600" height="60" fill="#E4E8E3"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="200" cy="285" r="55" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="200" cy="285" r="43" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="200" cy="285" r="6" fill="#2B3035" stroke="none"/>
+    <circle cx="400" cy="285" r="55" stroke="#2B3035" stroke-width="12"/>
+    <circle cx="400" cy="285" r="43" stroke="#2B3035" stroke-width="2" opacity=".35"/>
+    <circle cx="400" cy="285" r="6" fill="#2B3035" stroke="none"/>
+    <path d="M200 285 L280 285 L260 200 L360 200 L400 285 M280 285 L360 200" stroke="#F2B705" stroke-width="14"/>
+    <path d="M280 165 L268 133" stroke="#F2B705" stroke-width="12"/>
+    <path d="M245 127 H295" stroke="#2B3035" stroke-width="16"/>
+    <path d="M360 165 L345 110 L390 100" stroke="#2B3035" stroke-width="10"/>
+    <circle cx="280" cy="285" r="18" stroke="#2B3035" stroke-width="8"/>
+    <circle cx="170" cy="320" r="18" stroke="#2B3035" stroke-width="6"/>
+    <path d="M200 285 L170 320" stroke="#2B3035" stroke-width="6"/>
+  </g>
+</svg>
