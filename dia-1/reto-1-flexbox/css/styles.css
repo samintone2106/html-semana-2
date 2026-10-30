@@ -29,14 +29,6 @@ body {
   color: var(--gris-asfalto);
   background-color: var(--color-fondo);
 }
-header, main, footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: var(--esp-s);
-  flex-wrap: wrap;
-}
-
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--fuente-titulos);
@@ -78,8 +70,7 @@ footer {
   padding: var(--esp-s);
 }
 
-footer {
-  border-top: 1px solid var(--gris-niebla);
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -87,13 +78,27 @@ footer {
   flex-wrap: wrap;
 }
 
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--esp-l);
+  flex-wrap: wrap;
+  border-top: 1px solid var(--gris-niebla);
+}
+
 .pie-bloque {
   flex: 1 1 12rem;
 }
-.pie-texto {
-  flex: 1 1 12rem;
+
+.pie-bloque h2 {
+  margin-top: 0;
+  font-size: 1.125rem;
+}
+
+.pie-bloque p {
+  margin: 0 0 var(--esp-xs);
   font-size: 0.875rem;
-  font-weight: 400;
 }
 .pagina-tarifas > h1,
 .pagina-tarifas > section,
